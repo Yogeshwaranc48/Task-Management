@@ -1,11 +1,23 @@
-<div align="center">
+# TaskFlow - Smart Task Management
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A modern, responsive Task Management Web Application built using only HTML, CSS, and Vanilla JavaScript (No frameworks).
 
-  <h1>Built with AI Studio</h2>
+## Features
+- **Glassmorphism UI**: Beautiful transparent panels with blurred backgrounds.
+- **Dark/Light Mode**: Toggle between themes seamlessly.
+- **Task Management**: Add, Edit, Delete, and Complete tasks.
+- **Categorization & Priority**: Sort tasks by category and priority levels.
+- **Filtering & Search**: Instantly find tasks by text, status, or category.
+- **Local Storage**: All your data is saved locally in your browser.
+- **Drag & Drop**: Reorder your tasks manually.
+- **Import/Export**: Save tasks to a JSON file and restore them anytime.
+- **Confetti Celebration**: A fun animation when all tasks are completed!
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Setup
+Simply open `index.html` in your web browser. No local server required!
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Technologies Used
+- HTML5
+- CSS3 (Vanilla, CSS Variables, Flexbox/Grid, Keyframe Animations)
+- JavaScript (ES6+, DOM Manipulation, LocalStorage)
+- FontAwesome (Icons)
